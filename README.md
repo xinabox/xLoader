@@ -2,7 +2,7 @@
 Microsoft Windows Tool for Flashing ☒CC01 and ☒CR03 using ☒IP01
 > No tools available at this point for other Operating Systems!
 
-<img src="images/xLoader.gif" align="right">
+<img src="images/xLoader.gif" width=216 align="right">
 
 ### Flashing Steps: 
 1. Download [xLoader.zip](https://github.com/xinabox/xLoader/releases/latest) file.
