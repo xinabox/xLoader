@@ -12,7 +12,7 @@ Microsoft Windows Tool for Flashing ☒CC01 and ☒CR03 using ☒IP01
 1. Insert **☒IP01** and **☒CC01/☒CR03** into an available USB port
 1. Wait for eventual drivers to be installed, if driver installation fail, goto [USB Driver](#usb-driver)
 1. Execute the `xLoader.exe` file
-1. Choose Firmware. There is a .hex file included in the install folder. You can also download a [specific radio frequency](https://github.com/xinabox/xLoader/releases/latest). 
+1. Choose Firmware. There is a .hex file included in the install folder. You can also download a [specific radio ID pairs](https://github.com/xinabox/xLoader/releases/latest). 
 1. Choose your COM port. If no COM port is available, goto [USB Driver](#usb-driver)
 1. Click `Upload`
 1. Wait for the text `Uploading...` to be replaced by `<nnnn> bytes uploaded`
