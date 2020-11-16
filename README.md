@@ -1,5 +1,5 @@
 # xLoader
-Microsoft Windows Tool for Flashing CC01, CR01, CR02 or CR03 using ☒IP01
+Microsoft Windows Tool for Flashing CC01, CR01, CR02 or CR03 using IP01
 > No tools available at this point for other Operating Systems!
 
 <img src="images/xLoader.gif" width=216 align="right">
