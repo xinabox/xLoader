@@ -21,6 +21,9 @@ Microsoft Windows Tool for Flashing CC01, CR01, CR02 or CR03 using IP01
 ### USB Driver
 If you have issues with USB drivers for the **IP01**, then go here [IP01](https://github.com/xinabox/xIP01), and install the driver from the `drivers` folder.
 
+### "Can't open port" error 
+If you are running [Cura](https://ultimaker.com/software/ultimaker-cura), you may get the "can't open port" error message, as Cura is monopolizing it. Before using Xloader, shut Cura down, including its background processes. 
+
 ### Flashing on Non-Windows Operating Systems
 These instructions are provided AS IS. If you encounter difficulty, use the instructions above before reporting an issue.
 1. You will need to install the [`avrdude`](http://savannah.nongnu.org/projects/avrdude) command. On several linux systems this is provided as a package through your package manager (e.g. `sudo apt install avrdude`).
